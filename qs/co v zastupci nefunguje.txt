@@ -1,0 +1,10 @@
+
+
+co nefunguje v zastupci narozdil od cmd.exe je treba
+
+qs10.exe "10" "10" & pause
+
+takze kdy se zapomene cekat na konci qs1.exe tak uz se to potom v zastupci nedozene
+
+
+
